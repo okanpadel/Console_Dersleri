@@ -1,0 +1,8 @@
+C:\Users\okan_\OneDrive\Masaüstü\Udemy C#\Console_Dersleri\Console_Dersleri\bin\Debug\Console_Dersleri.exe.config
+C:\Users\okan_\OneDrive\Masaüstü\Udemy C#\Console_Dersleri\Console_Dersleri\bin\Debug\Console_Dersleri.exe
+C:\Users\okan_\OneDrive\Masaüstü\Udemy C#\Console_Dersleri\Console_Dersleri\bin\Debug\Console_Dersleri.pdb
+C:\Users\okan_\OneDrive\Masaüstü\Udemy C#\Console_Dersleri\Console_Dersleri\obj\Debug\Console_Dersleri.csproj.AssemblyReference.cache
+C:\Users\okan_\OneDrive\Masaüstü\Udemy C#\Console_Dersleri\Console_Dersleri\obj\Debug\Console_Dersleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\okan_\OneDrive\Masaüstü\Udemy C#\Console_Dersleri\Console_Dersleri\obj\Debug\Console_Dersleri.csproj.CoreCompileInputs.cache
+C:\Users\okan_\OneDrive\Masaüstü\Udemy C#\Console_Dersleri\Console_Dersleri\obj\Debug\Console_Dersleri.exe
+C:\Users\okan_\OneDrive\Masaüstü\Udemy C#\Console_Dersleri\Console_Dersleri\obj\Debug\Console_Dersleri.pdb
